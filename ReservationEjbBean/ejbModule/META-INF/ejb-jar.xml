@@ -11,6 +11,7 @@
             <ejb-class>classes.ejbs.StateSessionBean</ejb-class>
             <session-type>Stateless</session-type>
             <transaction-type>Bean</transaction-type>
+            
         </session>
 </enterprise-beans>
 </ejb-jar>
